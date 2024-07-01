@@ -1,0 +1,1 @@
+Projeto desenvolvido em Python, visando a geração de senhas aleatórias // Project developed in Python, aiming to generate random passwords.
